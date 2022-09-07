@@ -20,6 +20,6 @@
   3. You have successfully opened a new workbook in Excel for the web.
 + Upload and Open a workbook in Excel for the web
   1. Download the file `indian_startup_funding_Lab1.xlsx`
-  2. To upload and open a workbook in Excel for the web, click the App Launcher (cube of dots) in the top left corner. Click Excel icon. Then click Upload and open... and select the indian_startup_funding_Lab1.xlsx file
+  2. To upload and open a workbook in Excel for the web, click the App Launcher (cube of dots) in the top left corner. Click Excel icon. Then click Upload and open... and select the `indian_startup_funding_Lab1.xlsx` file
   3. The file will be uploaded to your OneDrive of the Microsoft Account you signed up and used to open Excel for the web.
   4. You have successfully uploaded and opened a workbook in Excel for the web.
