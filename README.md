@@ -1,4 +1,4 @@
-# Excel-Basics-for-Data-Analysis
+# Coursera Course
 ### Dataset
 
 Customer demographics and sales
@@ -6,3 +6,6 @@ Customer demographics and sales
 
 Indian Startup Funding
 [more](https://www.kaggle.com/sudalairajkumar/indian-startup-funding)
+
+IBM Skills Network ➡️
+[Excel Basics for Data Analysis](https://www.coursera.org/learn/excel-basics-data-analysis-ibm)
