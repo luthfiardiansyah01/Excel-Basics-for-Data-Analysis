@@ -1,10 +1,15 @@
 ## Introduction to Basic Spreadsheet Elements
 1. Open Excel for the web. Click on New blank workbook.
+![image](https://user-images.githubusercontent.com/71245686/189623807-47197aad-2b6a-4a98-8dee-ffe994ec5947.png)
 2. The new blank workbook will automatically be saved in Excel for the web as Book. To rename the workbook to something more meaningful, click File, Save As, then choose Rename.
+![image](https://user-images.githubusercontent.com/71245686/189623839-628cf22c-0ef2-47e7-9afe-ce2034c3917d.png)
 3. In the file name box, type `Personal_Monthly_Expenditure_Lab2` and click OK.
+![image](https://user-images.githubusercontent.com/71245686/189623936-7885bd93-f074-46dc-ba0a-119ccb4297f3.png)
 4. In the saved workbook, you will have one worksheet opened, named Sheet1. Click + once to add another worksheet. Then, double-click the sheet name tab for Sheet1 and rename it to Expense - 2019. Similarly, rename Sheet2 as Expense - 2018
+![image](https://user-images.githubusercontent.com/71245686/189623981-c492f749-cef4-4ca2-890c-fb8710b17d61.png)
 5. To maintain an appropriate worksheet tab sequence, click on the worksheet tab Expense - 2018, then drag and drop it before the Expense - 2019 tab.
 6. Click on the Expense - 2018 tab. Select an entire column by clicking on B in the top of the worksheet, then select an entire row by clicking on the number 5 in the left of the worksheet. Click cell B5, and a green outline will appear around the cell. Now check if you have clicked the correct cell by looking at the cell name box in the top left corner, circled in red below.
+![image](https://user-images.githubusercontent.com/71245686/189626157-15f2aaf0-54a0-4bcb-8b5e-ad6a8e322e28.png)
 7. Select several cells in the same row, such as A1:D1 by clicking cell A1 and then drag the cursor across to D1. Similarly, select a cell range in the same column, such as A1:A5 by clicking A1 and dragging the cursor down to A5.
 8. Now select a cell range which includes several rows and columns together, such as A1:C5 by clicking A1 and then dragging the cursor across and down to cell C5.
 
@@ -12,6 +17,7 @@
 A. Explore the ribbon
   1. Download the file `indian_startup_funding_Lab2.xlsx`.
   2. To open a sample file in Excel for the web, click the App Launcher (cube of dots) in the top left corner. Click Excel, and then click Upload and open... and select the `indian_startup_funding_Lab2.xlsx` file.
+  ![image](https://user-images.githubusercontent.com/71245686/189626508-972d0ec6-6899-45ac-b61c-f6101edeaa8a.png)
   3. Click each of the following tabs in the ribbon; File, Home, Insert, Formulas, Data, Review, View to explore each of them and get acquainted with the ribbon. Double-click any of the tabs to hide the ribbon, then do the same again to unhide it.
 
 B. Navigate around a worksheet
