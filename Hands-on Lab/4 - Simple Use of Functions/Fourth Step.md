@@ -8,11 +8,11 @@
 
 ## Basics of Functions
 1. In cells A16-A20, type the following:
-  + Avg
-  + Min
-  + Max
-  + Count
-  + Median
+    + Avg
+    + Min
+    + Max
+    + Count
+    + Median
 2. In B16, type =AVERAGE( then select cells B2 to B13 with the mouse, and press Enter. Select the fill handle on cell B16 and drag to G16 to copy the formula.
 3. In B17, type =MIN( then select cells B2 to B13 with the mouse, and press Enter. Select the fill handle on cell B17 and drag to G17 to copy the formula.
 4. In B18, type =MAX( then select cells B2 to B13 with the mouse, and press Enter. Select the fill handle on cell B18 and drag to G18 to copy the formula.
