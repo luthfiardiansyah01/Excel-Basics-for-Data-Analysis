@@ -1,10 +1,11 @@
 ## Removing Duplicated, Irrelevant or Inaccurate Data
 A. Check spelling
-  1. Download the file Customer_demographics_and_sales_Lab5.xlsx. Upload and open it using Excel for the web.
+  1. Download the file `Customer_demographics_and_sales_Lab5.xlsx`. Upload and open it using Excel for the web.
   2. Select column L (CREDITCARD_TYPE), then click Review tab, and select Spelling.
   3. Click the correct suggestion to change the spelling
       + Note: Don’t change ‘jcb’ spelling when doing the spell check. We will need 'jcb' for the Exercise 1 Task D.
   4. Close the Spelling pane.
+  ![image](https://user-images.githubusercontent.com/71245686/189687172-70ed6e9d-8f4b-47b2-a27c-2547c0d5d0d3.png)
 
 B. Remove empty rows
   1. Press CTRL+HOME, then press CTRL+SHIFT+END to select the whole datasheet.
@@ -14,6 +15,7 @@ B. Remove empty rows
   5. Select first row, then press CTRL+SHIFT+END to select all rows.
   6. Right-click the selected rows and then click Delete Rows.
   7. Finally, on the Data tab, click Clear, then click Filter.
+  ![image](https://user-images.githubusercontent.com/71245686/189687246-1bee104e-790f-4e89-90f2-b5d0f881a108.png)
 
 C. Remove duplicate rows
   1. Select Column T (ORDER_ID) since ORDER_ID values are unique.
@@ -22,6 +24,7 @@ C. Remove duplicate rows
   4. On the Data tab, click Remove Duplicates.
   5. In the Remove Duplicates dialog box, ensure that Select all columns is checked and that My data has headers is also checked, then click OK.
   6. In the pop-up box informing you how many duplicate values were found and removed, click OK.
+  ![image](https://user-images.githubusercontent.com/71245686/189687321-9bf16045-7402-43b0-b063-78fce78ce711.png) 
 
 D. Use Find & Replace to correct misspelling
   1. On the Home tab, click Find & Select.
@@ -29,6 +32,7 @@ D. Use Find & Replace to correct misspelling
   3. Click Replace.
   4. In Replace with, type JCB, click Replace All, and then click the Close icon.
   5. On the Home tab, click Conditional Formatting> Clear Rules> Clear Rules from Entire Sheet.
+  ![image](https://user-images.githubusercontent.com/71245686/189687368-4cbeb209-45ac-4399-aa5d-f51b2581bd15.png)
 
 ## Dealing with Inconsistencies in Data
 A. Use the PROPER function to change text from upper case to proper case
@@ -62,6 +66,7 @@ D. Change date formatting
   3. In the Category list, select Date.
   4. In the Format Cells box, under Locale, select English (United States).
   5. Under Type, select Wednesday, March 14, 2012 and click OK.
+  ![image](https://user-images.githubusercontent.com/71245686/189687447-361eec08-8db1-412d-a4aa-9f9c3e9e5070.png)
 
 E. Use Find & Replace to trim whitespace
   1. Click CTRL+HOME.
