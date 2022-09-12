@@ -1,11 +1,10 @@
 # Coursera Course
-### Dataset
+### Information
 
-Customer demographics and sales
-[more](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/f8ccaf607372882403a37d9019b3abf4)
-
-Indian Startup Funding
-[more](https://www.kaggle.com/sudalairajkumar/indian-startup-funding)
+Datasets
+[Customer demographics and sales](https://dataplatform.cloud.ibm.com/exchange/public/entry/view/f8ccaf607372882403a37d9019b3abf4)
+||
+[Indian Startup Funding](https://www.kaggle.com/sudalairajkumar/indian-startup-funding)
 
 Author(s)
 [Sandip Saha Joy](https://www.linkedin.com/in/sandipsahajoy/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-wwwcourseraorg-SkillsNetworkCoursesIBMDeveloperSkillsNetworkDA0130ENSkillsNetwork20531059-2022-01-01)
